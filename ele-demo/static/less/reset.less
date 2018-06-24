@@ -1,0 +1,37 @@
+@import "./base.less";
+*{
+  margin: 0;
+  padding: 0;
+}
+.flex{
+  display: flex;
+}
+.page{
+  .flex();
+  flex-direction: column;
+  height: 100%;
+}
+.flex-between{
+  .flex();
+  justify-content: space-between;
+}
+.flex-center{
+  .flex();
+  justify-content: center;
+}
+.flex-around{
+  .flex();
+  justify-content: space-around;
+}
+.flex-align-center{
+  .flex();
+  align-items: center;
+}
+.flex-align-end{
+  .flex();
+  align-items: flex-end;
+}
+.flex-align-start{
+  .flex();
+  align-items: start;
+}

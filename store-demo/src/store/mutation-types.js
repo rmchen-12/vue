@@ -1,0 +1,6 @@
+export const SET_CARTS = 'SET_CARTS'
+export const SET_GOODS = 'SET_GOODS'
+export const SET_ADDRESS = 'SET_ADDRESS'
+export const ADD_ADDRESS = 'ADD_ADDRESS'
+export const ADD_ORDERS = 'ADD_ORDERS'
+export const RESET_CARTS = 'RESET_CARTS'

@@ -1,0 +1,4 @@
+export const INITIALIZATION ='INITIALIZATION';
+export const NEXT_ITEM = 'NEXT_ITEM';
+export const REMBER_ANSWER = 'REMBER_ANSWER';
+
