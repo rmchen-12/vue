@@ -1,0 +1,11 @@
+export const SET_GOODS = 'SET_GOODS' //商品详情
+export const SET_CARTS = 'SET_CARTS' //购物车
+export const SET_ORDERS = 'SET_ORDERS'//订单详情
+export const SET_COMNAME = 'SET_COMNAME'//设置组件名称
+export const SET_TABINDEX = 'SET_TABINDEX'//设置组件下标
+export const SET_PAYS = 'SET_PAYS'//设置支付账单
+export const SET_ISCHOOSE = 'SET_ISCHOOSE'//设置选择地址
+export const SET_ORDERCUR = 'SET_ORDERCUR'//当前状态下标
+export const SET_ORDERTAB = 'SET_ORDERTAB'//状态下标
+export const SET_ADDRESS = 'SET_ADDRESS'//设置地址
+export const SET_CHOOSEADDRESS = 'SET_CHOOSEADDRESS'//选择地址
